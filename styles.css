@@ -84,14 +84,17 @@ body {
 .tags p {
 	font-size: 0.8em;
 	font-weight: 800;
+	color: var(--secondary-black);
 }
 
 .date p {
+	color: var(--secondary-black);
 	font-size: 0.8em;
 	font-weight: 600;
 }
 
 .text-container h1 {
+	color: var(--secondary-black);
 	margin-top: 0.8em;
 	font-weight: 800;
 	font-size: 1.3em;
@@ -118,6 +121,7 @@ body {
 .user-container h2 {
 	margin: 0 1em 0 0;
 	padding: auto;
+	color: var(--secondary-black);
 }
 .user-avatar img {
 	width: 4em;
