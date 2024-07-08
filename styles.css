@@ -28,12 +28,12 @@ body {
 	background-color: var(--secondary-white);
 	padding: 1.2em;
 	width: 90%;
-	border-radius: 10px;
+	border-radius: 20px;
 	border: 1px solid var(--secondary-black);
 
 	min-width: 325px;
 	max-width: 384px;
-	box-shadow: 5px 5px var(--secondary-black);
+	box-shadow: 10px 10px var(--secondary-black);
 }
 
 .blog-click-link {
@@ -47,7 +47,7 @@ body {
 
 .blog-click-link > .blog-preview-container:hover,
 .blog-click-link:focus > .blog-preview-container {
-	box-shadow: 12px 12px var(--secondary-black);
+	box-shadow: 15px 15px var(--secondary-black);
 	border: 1px solid black;
 }
 .blog-click-link:focus {
@@ -60,7 +60,7 @@ body {
 
 .blog-image-container img {
 	width: 100%;
-	border-radius: 10px;
+	border-radius: 20px;
 }
 
 .dates-and-tags {
